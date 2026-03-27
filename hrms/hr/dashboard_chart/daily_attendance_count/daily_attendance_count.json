@@ -1,0 +1,20 @@
+{
+ "chart_name": "Daily Attendance Count",
+ "chart_type": "Group By",
+ "doctype": "Dashboard Chart",
+ "name": "Daily Attendance Count",
+
+ "document_type": "Attendance",
+
+ "group_by_based_on": "attendance_date",
+ "group_by_type": "Count",
+
+ "time_interval": "Daily",
+ "timespan": "Last Month",
+
+ "type": "Line",
+
+ "is_public": 1,
+ "is_standard": 1,
+ "use_report_chart": 0
+}

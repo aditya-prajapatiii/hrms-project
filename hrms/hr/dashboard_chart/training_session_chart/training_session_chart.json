@@ -1,0 +1,13 @@
+{
+  "doctype": "Dashboard Chart",
+  "name": "Training Session Chart",
+  "chart_name": "Training Session Chart",
+  "chart_type": "Group By",
+  "document_type": "Training Session",
+  "group_by_type": "Count",
+  "group_by_based_on": "status",
+  "is_standard": 1,
+  "module": "HR",
+  "type": "Donut",
+  "timeseries": 0
+}

@@ -1,0 +1,65 @@
+{
+ "doctype": "Workspace",
+ "name": "Training & Development",
+ "module": "HR",
+ "label": "Training & Development",
+ "title": "Training & Development",
+ "icon": "education",
+ "public": 1,
+ "parent_page": "HR",
+
+ "content": "[{\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Training & Development</b></span>\",\"col\":12}},{\"type\":\"chart\",\"data\":{\"chart_name\":\"Training Session Chart\",\"col\":12}},{\"type\":\"shortcut\",\"data\":{\"label\":\"Employee\",\"link_to\":\"Employee\",\"type\":\"DocType\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"label\":\"Training Program\",\"link_to\":\"Training Program\",\"type\":\"DocType\",\"col\":3}},{\"type\":\"shortcut\",\"data\":{\"label\":\"Training Session\",\"link_to\":\"Training Session\",\"type\":\"DocType\",\"col\":3}},{\"type\":\"spacer\",\"data\":{\"col\":12}},{\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Management</b></span>\",\"col\":12}},{\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}},{\"type\":\"card\",\"data\":{\"card_name\":\"Transactions\",\"col\":4}}]",
+
+ "links": [
+  {
+   "type": "Card Break",
+   "label": "Masters"
+  },
+  {
+   "type": "Link",
+   "label": "Employee",
+   "link_type": "DocType",
+   "link_to": "Employee"
+  },
+  {
+   "type": "Link",
+   "label": "Training Program",
+   "link_type": "DocType",
+   "link_to": "Training Program"
+  },
+  {
+   "type": "Card Break",
+   "label": "Transactions"
+  },
+  {
+   "type": "Link",
+   "label": "Training Session",
+   "link_type": "DocType",
+   "link_to": "Training Session"
+  },
+  {
+   "type": "Link",
+   "label": "ToDo",
+   "link_type": "DocType",
+   "link_to": "ToDo"
+  }
+ ],
+
+ "shortcuts": [
+  {
+   "label": "Employee",
+   "link_to": "Employee",
+   "type": "DocType"
+  },
+  {
+   "label": "Training Program",
+   "link_to": "Training Program",
+   "type": "DocType"
+  },
+  {
+   "label": "Training Session",
+   "link_to": "Training Session",
+   "type": "DocType"
+  }
+ ]
+}

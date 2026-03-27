@@ -1,0 +1,58 @@
+{
+ "cards": [
+  {
+   "card": "Total Present (This Month)"
+  },
+  {
+   "card": "Total Absent (This Month)"
+  },
+  {
+   "card": "Late Entry (This Month)"
+  },
+  {
+   "card": "Early Exit (This Month)"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Attendance Count",
+   "width": "Full"
+  },
+    {
+    "chart": "Attendance Status",
+    "width": "Full"
+      },
+    {
+    "chart": "Late Entry vs Early Exit",
+    "width": "Full"
+      },
+  {
+  "chart": "Daily Attendance Count",
+  "width": "Full"
+  },
+  {
+   "chart": "Timesheet Activity Breakup",
+   "width": "Half"
+  },
+  {
+   "chart": "Shift Assignment Breakup",
+   "width": "Half"
+  },
+  {
+   "chart": "Department wise Timesheet Hours",
+   "width": "Full"
+  }
+ ],
+ "creation": "2026-01-27 13:09:25.340835",
+ "dashboard_name": "Attendance",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 0,
+ "modified": "2026-03-23 17:29:12.189513",
+ "modified_by": "Administrator",
+ "module": "HR",
+ "name": "Attendance",
+ "owner": "prajapatiaditya399@gmail.com"
+}

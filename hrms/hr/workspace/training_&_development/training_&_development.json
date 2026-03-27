@@ -1,0 +1,98 @@
+{
+ "charts": [
+  {
+   "chart_name": "Training Session Chart",
+   "label": "Chart"
+  }
+ ],
+ "content": "[{\"id\":\"Z4YHi3S6Cc\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Training &amp; Development</b></span>\",\"col\":12}},{\"id\":\"wkUoxb33Gq\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"-OlDs3YwUW\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Chart\",\"col\":12}},{\"id\":\"qGxik8AjJI\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Session Count\",\"col\":3}},{\"id\":\"NwoJI7wjJz\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Management</b></span>\",\"col\":12}},{\"id\":\"Ogr0y4OWy0\",\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}},{\"id\":\"vWFGkpVuFK\",\"type\":\"card\",\"data\":{\"card_name\":\"Transactions\",\"col\":4}}]",
+ "creation": "2026-03-25 16:10:44.645573",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "hide_custom": 0,
+ "icon": "education",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Training & Development",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Masters",
+   "link_count": 0,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Employee",
+   "link_count": 0,
+   "link_to": "Employee",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Training Program",
+   "link_count": 0,
+   "link_to": "Training Program",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Transactions",
+   "link_count": 0,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Training Session",
+   "link_count": 0,
+   "link_to": "Training Session",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "ToDo",
+   "link_count": 0,
+   "link_to": "ToDo",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2026-03-25 16:16:39.166755",
+ "modified_by": "Administrator",
+ "module": "HR",
+ "name": "Training & Development",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "HR",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 0.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Session Count",
+   "link_to": "Training Session Count",
+   "report_ref_doctype": "Training Session",
+   "type": "Report"
+  }
+ ],
+ "title": "Training & Development"
+}

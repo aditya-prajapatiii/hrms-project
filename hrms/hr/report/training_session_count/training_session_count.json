@@ -1,0 +1,9 @@
+{
+  "doctype": "Report",
+  "name": "Training Session Count",
+  "ref_doctype": "Training Session",
+  "report_type": "Query Report",
+  "module": "HR",
+  "is_standard": 1,
+  "query": "SELECT name, employee, training_program, session_date, status FROM `tabTraining Session`"
+}
