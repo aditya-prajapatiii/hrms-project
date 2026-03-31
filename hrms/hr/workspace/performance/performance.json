@@ -1,12 +1,12 @@
 {
  "charts": [
   {
-   "chart_name": "Job Application Status",
-   "label": "JAS"
+   "chart_name": "Department Wise Openings",
+   "label": "DWO"
   }
  ],
- "content": "[{\"id\":\"nZ9MUieUjy\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Your Shortcuts</b></span>\",\"col\":12}},{\"id\":\"FxUmjnjKhT\",\"type\":\"chart\",\"data\":{\"chart_name\":\"JAS\",\"col\":12}},{\"id\":\"ETYoHfg2k0\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Appraisal\",\"col\":3}},{\"id\":\"VRnsImMEoD\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employee Performance Feedback\",\"col\":5}},{\"id\":\"vXBMJGJ98C\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Goal\",\"col\":3}},{\"id\":\"Vtre-LDhRc\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"NmUDJB28UL\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Masters &amp; Transactions</b></span>\",\"col\":12}},{\"id\":\"vNnUr6yHsH\",\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}},{\"id\":\"v8mC6C_9V-\",\"type\":\"card\",\"data\":{\"card_name\":\"Appraisal\",\"col\":4}},{\"id\":\"8X_kx16fax\",\"type\":\"card\",\"data\":{\"card_name\":\"Energy Points\",\"col\":4}},{\"id\":\"x_fx5yusAz\",\"type\":\"card\",\"data\":{\"card_name\":\"Promotion\",\"col\":4}},{\"id\":\"ofPrShxelC\",\"type\":\"card\",\"data\":{\"card_name\":\"Reports\",\"col\":4}}]",
- "creation": "2026-03-31 11:15:00.023136",
+ "content": "[{\"id\":\"nZ9MUieUjy\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Your Shortcuts</b></span>\",\"col\":12}},{\"id\":\"3fOvhWQM1V\",\"type\":\"chart\",\"data\":{\"chart_name\":\"DWO\",\"col\":12}},{\"id\":\"ETYoHfg2k0\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Appraisal\",\"col\":3}},{\"id\":\"VRnsImMEoD\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employee Performance Feedback\",\"col\":5}},{\"id\":\"vXBMJGJ98C\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Goal\",\"col\":3}},{\"id\":\"Vtre-LDhRc\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"NmUDJB28UL\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Masters &amp; Transactions</b></span>\",\"col\":12}},{\"id\":\"vNnUr6yHsH\",\"type\":\"card\",\"data\":{\"card_name\":\"Masters\",\"col\":4}},{\"id\":\"v8mC6C_9V-\",\"type\":\"card\",\"data\":{\"card_name\":\"Appraisal\",\"col\":4}},{\"id\":\"8X_kx16fax\",\"type\":\"card\",\"data\":{\"card_name\":\"Energy Points\",\"col\":4}},{\"id\":\"x_fx5yusAz\",\"type\":\"card\",\"data\":{\"card_name\":\"Promotion\",\"col\":4}},{\"id\":\"ofPrShxelC\",\"type\":\"card\",\"data\":{\"card_name\":\"Reports\",\"col\":4}}]",
+ "creation": "2026-03-31 18:17:50.564790",
  "custom_blocks": [],
  "docstatus": 0,
  "doctype": "Workspace",
@@ -189,7 +189,7 @@
    "type": "Link"
   }
  ],
- "modified": "2026-03-31 17:31:06.203584",
+ "modified": "2026-03-31 18:22:17.931716",
  "modified_by": "Administrator",
  "module": "HR",
  "name": "Performance",
